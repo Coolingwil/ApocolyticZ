@@ -256,7 +256,8 @@ Public Class Form1
                 ElseIf num = 47 Then
 
                 ElseIf num = 48 Then
-
+                    MessageBox.Show("Microchip")
+                    ListBox1.Items.Add("Microchip")
                 ElseIf num = 49 Then
 
                 Else
