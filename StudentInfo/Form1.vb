@@ -269,7 +269,8 @@ Public Class Form1
 
                 If num >= 51 And num < 61 Then
                     If num = 51 Then
-
+                        MessageBox.Show("Keys")
+                        ListBox1.Items.Add("Keys")
                     ElseIf num = 52 Then
 
                     ElseIf num = 53 Then
