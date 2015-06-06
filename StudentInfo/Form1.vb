@@ -251,7 +251,8 @@ Public Class Form1
                     MessageBox.Show("Water Bottle(unpure water)")
                     ListBox1.Items.Add("Water Bottle(unpure water)")
                 ElseIf num = 46 Then
-
+                    MessageBox.Show("Chapstick")
+                    ListBox1.Items.Add("Chapstick")
                 ElseIf num = 47 Then
 
                 ElseIf num = 48 Then
