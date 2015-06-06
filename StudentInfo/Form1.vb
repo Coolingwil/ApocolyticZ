@@ -261,7 +261,8 @@ Public Class Form1
                 ElseIf num = 49 Then
 
                 Else
-
+                    MessageBox.Show("Tin Foil")
+                    ListBox1.Items.Add("Tin Foil")
                 End If
 
             ElseIf num > 50 And num < 91 Then
